@@ -31,7 +31,7 @@ Strava Lite is a lightweight Flask server application that allows users to regis
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/shivam-deshmukh-1107/Shivam_Deshmukh_CS_515.git
     ```
 2. **Create and Activate a Virtual Environment:**
     ```bash
