@@ -1,8 +1,8 @@
 # Strava Lite
 
-[GitHub Repository](https://github.com/roccopolimen/nextround)
+[GitHub Repository](https://github.com/shivam-deshmukh-1107/Shivam_Deshmukh_CS_515)
 
-**Author:** Your Name – [your-email@stevens.edu](mailto:your-email@stevens.edu)
+**Author:** Your Name – [sdeshmuk2@stevens.edu](mailto:sdeshmuk2@stevens.edu)
 
 ## Project Description
 
